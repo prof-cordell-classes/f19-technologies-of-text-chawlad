@@ -8,7 +8,7 @@
 Moveable type and scriptoriums, manuscripts and codices, and printers and scribes, all coexisted in time. I question, what are mediums that span across time but continue to exist in our age of dominant technological mediums and codices? 
 (Opportunity to discuss other mediums used today, with affordances and limitations different to the e-book and codex)
 
-—-
+—
 
 2. QUESTION/OBSERVATION 2
 The author of __How Typeface influences the way we read and think__ mentioned the ‘aesthetic manner’ in which words are presented matters and impacts the way we read and think about the information presented. It is important to remember the audience, context, purpose, and medium of text. How does one identify the aesthetic manner that complements the text? What are some specific aesthetic norms that we can discuss, and those that vary based on the audience, context, purpose, and medium of text.

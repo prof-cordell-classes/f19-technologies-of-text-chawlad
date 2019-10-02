@@ -40,7 +40,7 @@ I was interested in Gutenberg and his venture primarily because of my business b
 
 > The legal shift to conceiving of the book as content, rather than object, is virtually inseparable from its commodification.
 
-The multi-faceted influence of technological, social, cultural, and legal factors of the past amalgamate to form the contemporary understanding of what we call **the book**. 
+The multi-faceted influence of technological, social, cultural, and legal factors of the past amalgamate to form the contemporary understanding of what we call **a book**. 
 
 
 

@@ -30,16 +30,17 @@ And
 > The success of all media depends at some level on inattention and blindness to the media technologies themselves in favour of attention to the phenomena, the context that they represent for users’ edification or enjoyment.  
 
 
-In addition to the technological factors that influence textual technology, the scribal or rather humanist influence of typography is amplified when Amaranth Borsuk explains the roman and italic type considered as “humanist faces” because
+In addition to the technological factors that influence textual technology, the scribal or rather humanist influence on typography is illustrated when Amaranth Borsuk explains how roman and italic type are considered as “humanist faces” because
 
 > They emulate writing with a broad-nibbed pen, which produces strokes of varying thickness.
 
-Such elements of hand written text have relayed in our technological environments. The "broad-nibbed pen” of the scribes is an absent element today, however it’s "strokes of varying thickness" still impact representation and interpretation of text today (even digitally).
+Such elements of hand written text have relayed in our technological environments. The "broad-nibbed pen” of the scribes is an absent element today, however it’s "strokes of varying thickness" continue to impact contemporary representation and interpretation of text today (even digitally).
 
 I was interested in Gutenberg and his venture primarily because of my business background. The rise and industrialisation of print enabled the mass production and distribution of text. Popularisation of this specific medium contributed to the evolution of the perception of books. The impact is across areas of printing, copyright, and authorship. As said by Borsuk,
 
 > The legal shift to conceiving of the book as content, rather than object, is virtually inseparable from its commodification.
 
-The multi-faceted influence of technological, social, cultural, and legal factors of the past amalgamate to form the contemporary understanding of what we call **the book**.
+The multi-faceted influence of technological, social, cultural, and legal factors of the past amalgamate to form the contemporary understanding of what we call **the book**. 
+
 
 

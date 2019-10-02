@@ -21,7 +21,7 @@ A quote from Amaranth Borsuk’s _The Book_,
 
 > The invention of printing was the culmination of invention of the navigable book.
 
-	I resonated with this idea particularly because of our discussion of the printing press enabling the mass production of standardised text. Many typographic elements we see in early manuscripts trickle down into the writing of scribes, but this carrying forward of norms and ideas is not limited to _content_. The **cross-generational influence of the medium and technology, and the iterative nature of innovation**, is evident as we discuss Gutenberg’s entrepreneurial approach towards combining existing technologies to create the letterpress. Similarly, we briefly discussed the Linotype machine for eliminating the need for letter-by-letter manual typesetting, and producing a line of type. The Linotype’s fundamental similarities to the letterpress further support my argument. From a contemporary perspective, the presence of terminology in word processing that originates from technology of the past was an interesting theme, for eg. uppercase, lowercase, stereotype, etc. To my surprise, this perfectly aligned with our first reading in the course of _Always Already New_ by Lisa Gitelman. Gitelman said,
+I resonated with this idea particularly because of our discussion of the printing press enabling the mass production of standardised text. Many typographic elements we see in early manuscripts trickle down into the writing of scribes, but this carrying forward of norms and ideas is not limited to _content_. The **cross-generational influence of the medium and technology, and the iterative nature of innovation**, is evident as we discuss Gutenberg’s entrepreneurial approach towards combining existing technologies to create the letterpress. Similarly, we briefly discussed the Linotype machine for eliminating the need for letter-by-letter manual typesetting, and producing a line of type. The Linotype’s fundamental similarities to the letterpress further support my argument. From a contemporary perspective, the presence of terminology in word processing that originates from technology of the past was an interesting theme, for eg. uppercase, lowercase, stereotype, etc. To my surprise, this perfectly aligned with our first reading in the course of _Always Already New_ by Lisa Gitelman. Gitelman said,
 
 > The introduction of new media is never entirely revolutionary.
 
@@ -30,16 +30,16 @@ And
 > The success of all media depends at some level on inattention and blindness to the media technologies themselves in favour of attention to the phenomena, the context that they represent for users’ edification or enjoyment.  
 
 
-	In addition to the technological factors that influence textual technology, the scribal or rather humanist influence of typography is amplified when Amaranth Borsuk explains the roman and italic type considered as “humanist faces” because
+In addition to the technological factors that influence textual technology, the scribal or rather humanist influence of typography is amplified when Amaranth Borsuk explains the roman and italic type considered as “humanist faces” because
 
 > They emulate writing with a broad-nibbed pen, which produces strokes of varying thickness.
 
-	Such elements of hand written text have relayed in our technological environments. The "broad-nibbed pen” of the scribes is an absent element today, however it’s "strokes of varying thickness" still impact representation and interpretation of text today (even digitally).
+Such elements of hand written text have relayed in our technological environments. The "broad-nibbed pen” of the scribes is an absent element today, however it’s "strokes of varying thickness" still impact representation and interpretation of text today (even digitally).
 
-	I was interested in Gutenberg and his venture primarily because of my business background. The rise and industrialisation of print achieved the mass production and distribution of text. Popularisation of this specific medium contributed to the evolution of the perception of books. The impact is across areas of printing, copyright, and authorship. As said by Borsuk,
+I was interested in Gutenberg and his venture primarily because of my business background. The rise and industrialisation of print achieved the mass production and distribution of text. Popularisation of this specific medium contributed to the evolution of the perception of books. The impact is across areas of printing, copyright, and authorship. As said by Borsuk,
 
 > The legal shift to conceiving of the book as content, rather than object, is virtually inseparable from its commodification.
 
-	The multi-faceted influence of technological, social, cultural, and legal factors of the past amalgamate to form the contemporary understanding of what we call **the book**.
+The multi-faceted influence of technological, social, cultural, and legal factors of the past amalgamate to form the contemporary understanding of what we call **the book**.
 
 

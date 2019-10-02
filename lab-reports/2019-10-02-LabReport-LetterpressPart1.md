@@ -36,7 +36,7 @@ In addition to the technological factors that influence textual technology, the 
 
 Such elements of hand written text have relayed in our technological environments. The "broad-nibbed pen” of the scribes is an absent element today, however it’s "strokes of varying thickness" still impact representation and interpretation of text today (even digitally).
 
-I was interested in Gutenberg and his venture primarily because of my business background. The rise and industrialisation of print achieved the mass production and distribution of text. Popularisation of this specific medium contributed to the evolution of the perception of books. The impact is across areas of printing, copyright, and authorship. As said by Borsuk,
+I was interested in Gutenberg and his venture primarily because of my business background. The rise and industrialisation of print enabled the mass production and distribution of text. Popularisation of this specific medium contributed to the evolution of the perception of books. The impact is across areas of printing, copyright, and authorship. As said by Borsuk,
 
 > The legal shift to conceiving of the book as content, rather than object, is virtually inseparable from its commodification.
 

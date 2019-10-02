@@ -16,7 +16,7 @@ I think this hands-on experience with setting type was fun yet occasionally frus
 —
 ## Analysis
 A quote from Amaranth Borsuk’s _The Book_,
-> The invention of printing was the culmination of invention of the navigable book
+> The invention of printing was the culmination of invention of the navigable book.  
 I resonated with this idea particularly because of our discussion of the printing press enabling the mass production of standardised text. Many typographic elements we see in early manuscripts trickle down into the writing of scribes, but this carrying forward of norms and ideas is not limited to _content_. The **cross-generational influence of the medium and technology, and the iterative nature of innovation**, is evident as we discuss Gutenberg’s entrepreneurial approach towards combining existing technologies to create the letterpress. Similarly, we briefly discussed the Linotype machine for eliminating the need for letter-by-letter manual typesetting, and producing a line of type. The Linotype’s fundamental similarities to the letterpress further support my argument. From a contemporary perspective, the presence of terminology in word processing that originates from technology of the past was an interesting theme, for eg. uppercase, lowercase, stereotype, etc. To my surprise, this perfectly aligned with our first reading in the course of _Always Already New_ by Lisa Gitelman. Gitelman said,
 > The introduction of new media is never entirely revolutionary.
 And

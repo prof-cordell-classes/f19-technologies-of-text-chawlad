@@ -19,6 +19,6 @@ Artists including Mallarmé had a specific purpose, context and audience for the
 
 3. QUESTION/OBSERVATION 3
 
-in the 21st century, we see elements beyond illustrations or graphics as part of a modern ‘artists book.’ The broad and dynamic definition of ’the book’ raises the question whether the use of auditory elements/moving images in modern books is resulting in a blur/interweave of distinct and separate forms of representation?
+In the 21st century, we see elements beyond illustrations or graphics as part of a modern ‘artists book.’ The broad and dynamic definition of ’the book’ raises the question whether the use of auditory elements/moving images in modern books is resulting in a blur/interweave of distinct and separate forms of representation?
 
 

@@ -8,7 +8,7 @@
 
 Blake’s technique "allowed for a more calligraphic writing style and a harmony between reading and looking, rather than relegating text and image to separate pages”
 While industrial printers had a ‘divide and conquer’ approach to maximise speed and efficiency, Blake had an artistic and expressive approach towards books
-The former is appropriate for mass production, and later as unique/limited art. The two are different types of resources, functionally different books. making direct comparison difficult.
+The former is appropriate for mass production, and later as unique/limited art. The two are different types of resources, functionally different books, making direct comparisons difficult to decipher.
 
 
 2. QUESTION/OBSERVATION 2

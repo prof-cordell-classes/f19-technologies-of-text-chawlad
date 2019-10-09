@@ -6,7 +6,7 @@
 
 For this lab we focused specifically on the presswork tasks in the greater letterpressing process. At the beginning of the lab, I was still working to complete the _composing_ of the text. Once my composing stick was complete, compressed, and proofread, I was ready to move it over to the chase. This was a particularly difficult task due to the vulnerability of movable type. I felt a great degree of risk when physically relocating the type - the instruction of ‘pressure on all sides’ was perfect in theory, until I had to attempt it for the first time. After the precise placement of type, woodblocks, and quoins in the chase we continued to the room with the press machine. We experimented with double-sided printing, and continued to print 7 copies of a page of poetry per student. The hands-on experience with the printing press was an exciting one, and gave me a very holistic and experiential understanding of the reading materials.
 
-![a photograph of our completed chase with 3 twitterbot generated poems](/images/FinishedChase.jpeg)
+![a photograph of our completed chase with 3 twitterbot generated poems, ready to proceed for presswork](/images/FinishedChase.jpeg)
 
 
 ## Observations

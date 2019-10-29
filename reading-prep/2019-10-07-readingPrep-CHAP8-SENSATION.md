@@ -8,6 +8,7 @@
 
 Reading: The End of Books
 > “That is all Utopia,” cried John Pool, the humorist.
+
 This is when Pool was objecting the view of vegetarianism proposed by Pollock. Is standardization of experience (reading or eating) ‘all utopic’? Is it possible to effectively converge into one medium, how we interact with these fundamental elements across mankind? 
 
 2. QUESTION/OBSERVATION 2

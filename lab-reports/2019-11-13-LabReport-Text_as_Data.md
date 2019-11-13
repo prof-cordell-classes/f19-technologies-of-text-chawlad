@@ -20,10 +20,13 @@ There are many parallels between our readings of the Analytical Engine in _The T
 
 The mention of AI and its affordances and limitations on pages 162-3 are particularly interesting because of the accuracy in early predictions and concerns raised by John Searle in his thought experiment, ‘The Chinese Room.’ I think the specific example of the Chinese language, and the early days of AI in the late 1900s, is the perfect combination to illustrate the threats that surround a system built on a
 > a complete set of rote instructions on responding to a given set of Chinese characters, and a person ignorant of the Chinese language
+
 This highlights the caution that needs to be accounted for when building an autonomous system and reminds me of one of the key principles in today’s realm of data processing - Garbage In Garbage Out (GIGO). Even though this principle is often mentioned when speaking of the quality of data, it is highly relevant when discussing the inputs and information used to program the software itself. This is also surfaced in Pauda’s footnote as she says,
 > The Chinese Room replies by consulting instructions and feeding the resulting responses back through the slots
-To sum that, if the ‘consulting instructions’ are flawed, the output is flawed not due to the processing capabilities of the machinery, but due to the inherent incompetence of the system.
+
+To sum that, if the ‘consulting instructions’ are flawed, the output is flawed not due to the processing capabilities of the machinery, but due to the inherent incompetence built into the software and its approach.
 
 The Analytical Engine has undergone various iterations and interpretations over the decades, making possible our virtually robust and connected world today. Though the technology disappointed Queen Victoria at the time, as illustrated by Pauda on pages 75-7, this computational thinking by Babbage and Lovelace created a range of possibilities for people across disciplines. As said on page 78,
 >The Analytical Engine has no pretensions to originate anything. It can do whatever we know how to order it to perform.
+
 The idea of the Analytical Engine from the mid-19th century has scaled in infinite directions and ways as once imagined by Lovelace. In terms of the ’input’ - the Analytical Engine was restricted to numbers and mathematical calculations. It is also important to keep in mind the physicality and complexity of this hardware. Our inputs today range from all types and units of data - once normalised for readability by computers. Lovelace’s ability to envision how computers could perfectly intake orders and run operations as _ordered_ is what empowers all people to manipulate data, feed it into a computer system, and perform various tasks. This idea was at the core of our ‘Text as Data’ lab wherein we work with non-numeric input, non-binary instructions, and many versions of the same output (textual or visual.) 

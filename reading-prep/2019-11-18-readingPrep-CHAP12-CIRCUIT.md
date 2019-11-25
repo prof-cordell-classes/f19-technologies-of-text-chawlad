@@ -16,4 +16,5 @@ This stuck with me for being easily identifiable in our daily environment - it i
 The article also expressed a certain degree of disapproval of Amazon’s market dominance and position.
 > It seems as though Amazon has been disincentivised to stake out bold explorations by effectively winning a monopoly (deservedly, in many ways) on the market.
 
+
 I enjoyed reading the recommendations of how Amazon could bridge the gap between the reading experience of codices and digital books, however, I think those gaps are inherent to the form and ‘black hole’ like size of the Amazon Books Database. One can scan his/her bookshelf and intake various names and emotions - but with a digital bookshelf the size of Amazon - even the most drastic measures cannot give an avid reader a holistic view of their library.

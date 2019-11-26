@@ -6,9 +6,9 @@
 
 For the _Assemblage_ chapter of the course, we closely interacted with the Zine culture and collections of the late 90s, and attempted to create our very own zines for this lab. We had one of Northeastern University’s Archive Specialist, Molly Brown, present for this lab as a knowledgeable resource and guide through the process. For this lab, we used single sheets and folded them appropriately to create compact pocket-size 8-page zines. Molly brought dozens of old magazine issues that were available for us to use for our zines. At the beginning, I browsed various magazine issues and made note of which visuals, images, fonts, and such, called out to me the most. I wanted to make a simple yet thoughtful zine about something that I was familiar with. I started cutting little images and they all seemed to connect to my at-home life and activities. Shortly after gathering a handful cutouts, I realised I was leaning towards a theme of my personal day-to-day life - a big part of which is defined by the relationship I share with my roommates. This instantly gave me an idea to make a zine that gives an insight into our personalities and group dynamic. Most of the items pasted onto my zine come from three different issues of The New Yorker, and a few from other magazines. A scanned copy of the final product can be seen below.
 
-![My Zine Part 1](/images/myzine1.jpeg)
+![My Zine Part 1](/images/myzine1)
 
-![My Zine Part 2](/images/myzine2.jpeg)
+![My Zine Part 2](/images/myzine2)
 
 ## Observations
 

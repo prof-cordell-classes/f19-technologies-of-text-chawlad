@@ -8,7 +8,7 @@ For the _Assemblage_ chapter of the course, we closely interacted with the Zine 
 
 ![My Zine Part 1](/images/myzine1.jpg)
 
-![My Zine Part 2](/images/myzine2,jpg)
+![My Zine Part 2](/images/myzine2.jpg)
 
 ## Observations
 

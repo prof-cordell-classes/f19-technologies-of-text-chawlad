@@ -16,9 +16,9 @@ I think our exposure to the form and Kennedy’s work prior to creating our zine
 
 In terms of the process and final product, I was very excited to see my final product for how original, one-of-a-kind, emotive, and personalised it was. Although, all zines are not personal and emotive, I think there is a theme of non-conforming and self-driven content. The creators voice is distinct, identifiable, and consistent. This is something I noticed in many of the zines we looked at as part of the _Assemblage_ chapter and when we discussed the sense of trust in the community of zine consumers. From a historic standpoint, it is admirable yet risky for zine creators to distribute zines featuring topical or sensitive issues such as racism, women’s rights, politics, and so on. I think the form is empowering, creatively and ideologically, wherein it fosters a great extent of free speech and expression for artists. It was also inspiring to see the various ways in which zine creators weaved doodles, drawings, annotations, and text blocks together to create a versatile reading experience.
 
-![Zine Example 1](/images/zineexample1.jpeg)
+![Zine Example 1](/images/zineexample1.jpg)
 
-![Zine Example 2](/images/zineexample2.jpeg)
+![Zine Example 2](/images/zineexample2.jpg)
 
 ## Analysis
 

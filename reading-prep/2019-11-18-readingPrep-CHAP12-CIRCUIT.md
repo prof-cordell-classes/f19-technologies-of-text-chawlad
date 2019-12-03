@@ -10,6 +10,7 @@ The _What Football Will Look Like in the Future_ by Jon Bois was a very interest
 2. QUESTION/OBSERVATION 2
 Future Reading by Craig Mod is a very intricately analysed insight into the readerly worlds of the 20th and 21st century. I think the article surfaced many points that are at the core of this ToT course as well. I also sensed a very strong balance between emotion-driven analysis alongside a business perspective. The following quote reminded me of the classic ‘technology adoption life cycle’ curve that innovation classes involve:
 >New technologies are easily dismissible
+
 This stuck with me for being easily identifiable in our daily environment - it is a highly evidence-based claim.
 
 3. QUESTION/OBSERVATION 3

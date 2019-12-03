@@ -29,5 +29,11 @@ We jokingly discussed the frustration that surrounds infinite analyses on twitte
 > As our examples thus far have shown, fugitive verses were defined as much by prose as by poetry. 
 
 
+The article, “Chapter Three: What Gets Counted Counts” by Catherine D’Ignazio and Lauren Klein was a simply an eye-opening read. It had very specific and relevant examples of how classification systems need to be perceived as beyond binary classifiers, and instead classifiers of whatever categories we wish to count.
+
+> Without the right categories, the right data can’t be collected. 
+
+
+It is intriguing how D’Ignazio and Klien extended the idea of “gender is a social construct” to the constructs of our technological ecosystem - which largely also overlaps with our "virtual social” ecosystem. I think it was very interesting how they made this connection and said how the binary of gender needs to be broken down in our social lives, while the binaries in data or computing need to be monitored by ‘feminist’ data analysts or rather any person with a broader perspective.
 
 
